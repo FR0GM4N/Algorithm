@@ -33,19 +33,28 @@ src 폴더에 문제 사이트별로 코드를 정리했습니다.
 
 [SW Expert Academy](https://swexpertacademy.com/main/main.do)의 문제를 관리하는 폴더입니다.
 
-- Programming_Intermediate  파이썬 SW문제해결 기본
+- Programming_Intermediate   파이썬 SW문제해결 기본
 
-|  no  |                            title                             |  no  |                          title                           |  no  |                            title                             |
-| :--: | :----------------------------------------------------------: | :--: | :------------------------------------------------------: | :--: | :----------------------------------------------------------: |
-| 4831 |   [전기버스](src/swea/Programming_Intermediate/List1/4831)   | 4834 | [숫자카드](src/swea/Programming_Intermediate/List1/4834) | 4835 |    [구간합](src/swea/Programming_Intermediate/List1/4835)    |
-| 4828 |      [min max](src/swea/Programming_Intermediate/List1)      | 4836 |   [색칠하기](src/swea/Programming_Intermediate/List2)    | 4837 |   [부분집합의 합](src/swea/Programming_Intermediate/List2)   |
-| 4839 |     [이진탐색](src/swea/Programming_Intermediate/List2)      | 4843 |  [특별한 정렬](src/swea/Programming_Intermediate/List2)  | 4861 |    [회문](src/swea/Programming_Intermediate/String/4861)     |
-| 4864 | [문자열 비교](src/swea/Programming_Intermediate/String/4864) | 4865 |    [글자수](src/swea/Programming_Intermediate/String)    | 4866 |     [괄호검사](src/swea/Programming_Intermediate/Stack1)     |
-| 4869 |    [종이붙이기](src/swea/Programming_Intermediate/Stack1)    | 4871 | [그래프 경로](src/swea/Programming_Intermediate/Stack1)  | 4873 | [반복문자 지우기](src/swea/Programming_Intermediate/Stack1)  |
-| 4874 |      [Forth](src/swea/Programming_Intermediate/Stack2)       | 4875 |     [미로](src/swea/Programming_Intermediate/Stack2)     | 4880 | [토너먼트 카드게임](src/swea/Programming_Intermediate/Stack2) |
-| 4881 |   [배열 최소 합](src/swea/Programming_Intermediate/Stack2)   | 5097 |     [회전](src/swea/Programming_Intermediate/Queue)      | 5099 |     [피자 굽기](src/swea/Programming_Intermediate/Queue)     |
-| 5102 |    [노드의 거리](src/swea/Programming_Intermediate/Queue)    | 5105 |  [미로의 거리](src/swea/Programming_Intermediate/Queue)  | 5174 |      [subtree](src/swea/Programming_Intermediate/Tree)       |
-| 5176 |      [이진탐색](src/swea/Programming_Intermediate/Tree)      | 5177 |     [이진힙](src/swea/Programming_Intermediate/Tree)     | 5178 |     [노드의 합](src/swea/Programming_Intermediate/Tree)      |
+|  no  |                            title                             |  no  |                            title                             |  no  |                            title                             |
+| :--: | :----------------------------------------------------------: | :--: | :----------------------------------------------------------: | :--: | :----------------------------------------------------------: |
+| 4831 |  [전기버스](src/swea/_Programming_Intermediate/List1/4831)   | 4834 |  [숫자카드](src/swea/_Programming_Intermediate/List1/4834)   | 4835 |   [구간합](src/swea/_Programming_Intermediate/List1/4835)    |
+| 4828 | [min max](src/swea/_Programming_Intermediate/List1/4828.py)  | 4836 | [색칠하기](src/swea/_Programming_Intermediate/List2/4836.py) | 4837 | [부분집합의 합](src/swea/_Programming_Intermediate/List2/4837.py) |
+| 4839 | [이진탐색](src/swea/_Programming_Intermediate/List2/4839.py) | 4843 | [특별한 정렬](src/swea/_Programming_Intermediate/List2/4843.py) | 4861 |    [회문](src/swea/_Programming_Intermediate/String/4861)    |
+| 4864 | [문자열 비교](src/swea/_Programming_Intermediate/String/4864) | 4865 | [글자수](src/swea/_Programming_Intermediate/String/4865.py)  | 4866 |    [괄호검사](src/swea/_Programming_Intermediate/Stack1)     |
+| 4869 |   [종이붙이기](src/swea/_Programming_Intermediate/Stack1)    | 4871 |   [그래프 경로](src/swea/_Programming_Intermediate/Stack1)   | 4873 | [반복문자 지우기](src/swea/_Programming_Intermediate/Stack1) |
+| 4874 |      [Forth](src/swea/_Programming_Intermediate/Stack2)      | 4875 |      [미로](src/swea/_Programming_Intermediate/Stack2)       | 4880 | [토너먼트 카드게임](src/swea/_Programming_Intermediate/Stack2) |
+| 4881 |  [배열 최소 합](src/swea/_Programming_Intermediate/Stack2)   | 5097 |       [회전](src/swea/_Programming_Intermediate/Queue)       | 5099 |    [피자 굽기](src/swea/_Programming_Intermediate/Queue)     |
+| 5102 |   [노드의 거리](src/swea/_Programming_Intermediate/Queue)    | 5105 |   [미로의 거리](src/swea/_Programming_Intermediate/Queue)    | 5174 |      [subtree](src/swea/_Programming_Intermediate/Tree)      |
+| 5176 |     [이진탐색](src/swea/_Programming_Intermediate/Tree)      | 5177 |      [이진힙](src/swea/_Programming_Intermediate/Tree)       | 5178 |     [노드의 합](src/swea/_Programming_Intermediate/Tree)     |
+
+- Programming_Advanced   SW문제해결 응용
+
+|  no  |                            title                             |  no  |                          title                          |  no  |                            title                             |
+| :--: | :----------------------------------------------------------: | :--: | :-----------------------------------------------------: | :--: | :----------------------------------------------------------: |
+| 5185 |    [이진수](src/swea/_Programming_Advanced/start/5185.py)    | 5186 | [이진수2](src/swea/_Programming_Advanced/start/5186.py) | 1240 | [단순 2진 암호코드](src/swea/_Programming_Advanced/start/1240.py) |
+| 1242 | [암호코드 스캔](src/swea/_Programming_Advanced/start/1242.py) |      |                                                         |      |                                                              |
+|      |                                                              |      |                                                         |      |                                                              |
+|      |                                                              |      |                                                         |      |                                                              |
 
 - Problem
 
@@ -68,6 +77,7 @@ src 폴더에 문제 사이트별로 코드를 정리했습니다.
 | 4408  |      [자기 방으로 돌아가기](src/swea/4408.py)      | 5789  | [현주의 상자 바꾸기](src/swea/5789.py) | 6019  | [기차 사이의 파리](src/swea/6019.py)  |
 | 6485  |       [삼성시의 버스 노선](src/swea/6485.py)       | 11176 |   [문자사각형 1](src/swea/11176.py)    | 11178 |   [문자사각형 2](src/swea/11178.py)   |
 | 11184 |         [문자사각형 3](src/swea/11184.py)          | 11315 |     [오목 판정](src/swea/11315.py)     | 11454 |    [Baby-gin Game](src/swea/11454)    |
-| 11457 |            [gravity](src/swea/11457.py)            | 11485 |  [여러가지 input](src/swea/11485.py)   |       |                                       |
+| 11457 |            [gravity](src/swea/11457.py)            | 11485 |  [여러가지 input](src/swea/11485.py)   | 3752  | [가능한 시험 점수](src/swea/3752.py)  |
+| 10726 |           [이진수 표현](src/swea/10726)            |       |                                        |       |                                       |
 
 
