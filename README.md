@@ -18,6 +18,8 @@ src 폴더에 문제 사이트별로 코드를 정리했습니다.
 
 [백준](https://www.acmicpc.net/)의 문제를 관리하는 폴더입니다.
 
+<br>
+
 |  no   |                      title                       |  no   |                 title                  |  no  |                  title                  |
 | :---: | :----------------------------------------------: | :---: | :------------------------------------: | :--: | :-------------------------------------: |
 | 10818 |       [최소, 최대](src/baekjoon/10818.py)        | 15596 | [정수 N개의 합](src/baekjoon/15596.py) | 1018 | [체스판 다시 칠하기](src/baekjoon/1018) |
@@ -33,6 +35,8 @@ src 폴더에 문제 사이트별로 코드를 정리했습니다.
 
 [SW Expert Academy](https://swexpertacademy.com/main/main.do)의 문제를 관리하는 폴더입니다.
 
+<br>
+
 - Programming_Intermediate   파이썬 SW문제해결 기본
 
 |  no  |                            title                             |  no  |                            title                             |  no  |                            title                             |
@@ -47,6 +51,8 @@ src 폴더에 문제 사이트별로 코드를 정리했습니다.
 | 5102 |   [노드의 거리](src/swea/_Programming_Intermediate/Queue)    | 5105 |   [미로의 거리](src/swea/_Programming_Intermediate/Queue)    | 5174 |      [subtree](src/swea/_Programming_Intermediate/Tree)      |
 | 5176 |     [이진탐색](src/swea/_Programming_Intermediate/Tree)      | 5177 |      [이진힙](src/swea/_Programming_Intermediate/Tree)       | 5178 |     [노드의 합](src/swea/_Programming_Intermediate/Tree)     |
 
+<br>
+
 - Programming_Advanced   SW문제해결 응용
 
 |  no  |                            title                             |  no  |                            title                             |  no  |                            title                             |
@@ -55,6 +61,8 @@ src 폴더에 문제 사이트별로 코드를 정리했습니다.
 | 1242 | [암호코드 스캔](src/swea/_Programming_Advanced/start/1242.py) | 1244 | [최대상금](src/swea/_Programming_Advanced/brute&greedy/1244) | 5188 | [최소합](src/swea/_Programming_Advanced/brute&greedy/5188.py) |
 | 5189 | [전자카트](src/swea/_Programming_Advanced/brute&greedy/5189.py) | 5201 | [컨테이너 운반](src/swea/_Programming_Advanced/brute&greedy/5201.py) | 5202 | [화물 도크](src/swea/_Programming_Advanced/brute&greedy/5202.py) |
 | 5203 | [베이비진 게임](src/swea/_Programming_Advanced/brute&greedy/5203.py) |      |                                                              |      |                                                              |
+
+<br>
 
 - Problem
 
@@ -79,6 +87,6 @@ src 폴더에 문제 사이트별로 코드를 정리했습니다.
 | 11184 |         [문자사각형 3](src/swea/11184.py)          | 11315 |     [오목 판정](src/swea/11315.py)     | 11454 |        [Baby-gin Game](src/swea/11454)        |
 | 11457 |            [gravity](src/swea/11457.py)            | 11485 |  [여러가지 input](src/swea/11485.py)   | 3752  |     [가능한 시험 점수](src/swea/3752.py)      |
 | 10726 |           [이진수 표현](src/swea/10726)            | 1970  |   [쉬운 거스름돈](src/swea/1970.py)    | 2819  | [격자판의 숫자 이어 붙이기](src/swea/2819.py) |
-| 1861  |          [정사각형 방](src/swea/1861.py)           | 1486  |  [장훈이의 높은 선반](src/swea/1486)   | 4366  |               정식이의 은행업무               |
+| 1861  |          [정사각형 방](src/swea/1861.py)           | 1486  |  [장훈이의 높은 선반](src/swea/1486)   | 4366  |      [정식이의 은행업무](src/swea/4366)       |
 
 
