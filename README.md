@@ -62,7 +62,8 @@ src 폴더에 문제 사이트별로 코드를 정리했습니다.
 | 1242 | [암호코드 스캔](src/swea/_Programming_Advanced/start/1242.py) | 1244 | [최대상금](src/swea/_Programming_Advanced/brute&greedy/1244) | 5188 | [최소합](src/swea/_Programming_Advanced/brute&greedy/5188.py) |
 | 5189 | [전자카트](src/swea/_Programming_Advanced/brute&greedy/5189.py) | 5201 | [컨테이너 운반](src/swea/_Programming_Advanced/brute&greedy/5201.py) | 5202 | [화물 도크](src/swea/_Programming_Advanced/brute&greedy/5202.py) |
 | 5203 | [베이비진 게임](src/swea/_Programming_Advanced/brute&greedy/5203.py) | 5205 | [퀵 정렬](src/swea/_Programming_Advanced/divide_n_conquer/5205) | 5208 | [전기버스2](src/swea/_Programming_Advanced/backtracking/5208.py) |
-| 5209 | [최소 생산 비용](src/swea/_Programming_Advanced/backtracking/5209.py) |      |                                                              |      |                                                              |
+| 5209 | [최소 생산 비용](src/swea/_Programming_Advanced/backtracking/5209.py) | 5247 |     [연산](src/swea/_Programming_Advanced/graph/5247.py)     | 5248 | [그룹 나누기](src/swea/_Programming_Advanced/graph/5248.py)  |
+| 5249 |                        최소 신장 트리                        | 5250 |    [최소 비용](src/swea/_Programming_Advanced/graph/5250)    | 5251 |                        최소 이동 거리                        |
 
 <br>
 
