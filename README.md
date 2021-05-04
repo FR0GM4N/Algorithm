@@ -28,7 +28,8 @@ src 폴더에 문제 사이트별로 코드를 정리했습니다.
 | 1074  |              [Z](src/baekjoon/1074)              | 1107  |      [리모컨](src/baekjoon/1107)       | 1260 |     [DFS와 BFS](src/baekjoon/1260)      |
 | 1389  |  [케빈 베이컨의 6단계 법칙](src/baekjoon/1389)   | 1463  |    [1로 만들기](src/baekjoon/1463)     | 1541 |   [잃어버린 괄호](src/baekjoon/1541)    |
 | 1620  | [나는야 포켓몬 마스터 이다솜](src/baekjoon/1620) | 1676  | [팩토리얼 0의 개수](src/baekjoon/1676) | 1697 |      [숨바꼭질](src/baekjoon/1697)      |
-| 1764  |           [듣보잡](src/baekjoon/1764)            | 2178  |     [미로 탐색](src/baekjoon/2178)     |      |                                         |
+| 1764  |           [듣보잡](src/baekjoon/1764)            | 2178  |     [미로 탐색](src/baekjoon/2178)     | 1780 |    [종이의 개수](src/baekjoon/1780)     |
+| 1931  |         [회의실 배정](src/baekjoon/1931)         |       |                                        |      |                                         |
 
 <br><br>
 
