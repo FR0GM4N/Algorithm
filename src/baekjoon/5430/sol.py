@@ -1,6 +1,3 @@
-import sys
-sys.stdin = open("input.txt")
-
 def sol(p, n):
     flag = 0  # 짝
     delete = [0, 0]
@@ -14,7 +11,7 @@ def sol(p, n):
             delete[0] += 1
         elif s == 'D' and flag == 1:
             delete[1] += 1
-        if sum(delete) >= n:
+        if sum(delete) > n:
             return 'error'
 
     # 삭제하고 뒤집
