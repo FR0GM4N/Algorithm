@@ -25,7 +25,7 @@ src 폴더에 문제 사이트별로 코드를 정리했습니다.
 | 10818 |       [최소, 최대](src/baekjoon/10818.py)        | 15596 | [정수 N개의 합](src/baekjoon/15596.py) | 1018  | [체스판 다시 칠하기](src/baekjoon/1018) |
 | 2798  |           [블랙잭](src/baekjoon/2798)            | 15649 |    [N과 M (1)](src/baekjoon/15649)     | 2630  |   [색종이 만들기](src/baekjoon/2630)    |
 | 2164  |            [카드2](src/baekjoon/2164)            | 1003  |   [피보나치 함수](src/baekjoon/1003)   | 1012  |    [유기농 배추](src/baekjoon/1012)     |
-| 1074  |              [Z](src/baekjoon/1074)              | 1107  |      [리모컨](src/baekjoon/1107)       | 1260  |     [DFS와 BFS](src/baekjoon/1260)      |
+| 1074  |              [Z](src/baekjoon/1074)              | 1107  |     [리모컨](src/baekjoon/1107.py)     | 1260  |     [DFS와 BFS](src/baekjoon/1260)      |
 | 1389  |  [케빈 베이컨의 6단계 법칙](src/baekjoon/1389)   | 1463  |    [1로 만들기](src/baekjoon/1463)     | 1541  |   [잃어버린 괄호](src/baekjoon/1541)    |
 | 1620  | [나는야 포켓몬 마스터 이다솜](src/baekjoon/1620) | 1676  | [팩토리얼 0의 개수](src/baekjoon/1676) | 1697  |      [숨바꼭질](src/baekjoon/1697)      |
 | 1764  |           [듣보잡](src/baekjoon/1764)            | 2178  |     [미로 탐색](src/baekjoon/2178)     | 1780  |    [종이의 개수](src/baekjoon/1780)     |
