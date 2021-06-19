@@ -32,6 +32,7 @@ src 폴더에 문제 사이트별로 코드를 정리했습니다.
 | 1931  |         [회의실 배정](src/baekjoon/1931)         | 5430  |        [AC](src/baekjoon/5430)         | 14889 | [스타트와 링크](src/baekjoon/14889.py)  |
 | 7576  |          [토마토](src/baekjoon/7576.py)          | 10026 |   [적록색약](src/baekjoon/10026.py)    | 1927  |     [최소 힙](src/baekjoon/1927.py)     |
 | 11279 |         [최대 힙](src/baekjoon/11279.py)         | 14502 |    [연구소](src/baekjoon/14502.py)     |  ATM  |      [ATM](src/baekjoon/11399.py)       |
+| 1699  |       [제곱수의 합](src/baekjoon/1699.py)        | 2579  |   [계단오르기](src/baekjoon/2579.py)   |       |                                         |
 
 <br><br>
 
