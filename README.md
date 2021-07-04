@@ -20,19 +20,20 @@ src 폴더에 문제 사이트별로 코드를 정리했습니다.
 
 <br>
 
-|  no   |                      title                       |  no   |                 title                  |  no   |                  title                  |
-| :---: | :----------------------------------------------: | :---: | :------------------------------------: | :---: | :-------------------------------------: |
-| 10818 |       [최소, 최대](src/baekjoon/10818.py)        | 15596 | [정수 N개의 합](src/baekjoon/15596.py) | 1018  | [체스판 다시 칠하기](src/baekjoon/1018) |
-| 2798  |           [블랙잭](src/baekjoon/2798)            | 15649 |    [N과 M (1)](src/baekjoon/15649)     | 2630  |   [색종이 만들기](src/baekjoon/2630)    |
-| 2164  |            [카드2](src/baekjoon/2164)            | 1003  |   [피보나치 함수](src/baekjoon/1003)   | 1012  |    [유기농 배추](src/baekjoon/1012)     |
-| 1074  |              [Z](src/baekjoon/1074)              | 1107  |     [리모컨](src/baekjoon/1107.py)     | 1260  |     [DFS와 BFS](src/baekjoon/1260)      |
-| 1389  |  [케빈 베이컨의 6단계 법칙](src/baekjoon/1389)   | 1463  |    [1로 만들기](src/baekjoon/1463)     | 1541  |   [잃어버린 괄호](src/baekjoon/1541)    |
-| 1620  | [나는야 포켓몬 마스터 이다솜](src/baekjoon/1620) | 1676  | [팩토리얼 0의 개수](src/baekjoon/1676) | 1697  |      [숨바꼭질](src/baekjoon/1697)      |
-| 1764  |           [듣보잡](src/baekjoon/1764)            | 2178  |     [미로 탐색](src/baekjoon/2178)     | 1780  |    [종이의 개수](src/baekjoon/1780)     |
-| 1931  |         [회의실 배정](src/baekjoon/1931)         | 5430  |        [AC](src/baekjoon/5430)         | 14889 | [스타트와 링크](src/baekjoon/14889.py)  |
-| 7576  |          [토마토](src/baekjoon/7576.py)          | 10026 |   [적록색약](src/baekjoon/10026.py)    | 1927  |     [최소 힙](src/baekjoon/1927.py)     |
-| 11279 |         [최대 힙](src/baekjoon/11279.py)         | 14502 |    [연구소](src/baekjoon/14502.py)     |  ATM  |      [ATM](src/baekjoon/11399.py)       |
-| 1699  |       [제곱수의 합](src/baekjoon/1699.py)        | 2579  |   [계단오르기](src/baekjoon/2579.py)   |       |                                         |
+|  no   |                      title                       |  no   |                    title                     |  no   |                  title                  |
+| :---: | :----------------------------------------------: | :---: | :------------------------------------------: | :---: | :-------------------------------------: |
+| 10818 |       [최소, 최대](src/baekjoon/10818.py)        | 15596 |    [정수 N개의 합](src/baekjoon/15596.py)    | 1018  | [체스판 다시 칠하기](src/baekjoon/1018) |
+| 2798  |           [블랙잭](src/baekjoon/2798)            | 15649 |       [N과 M (1)](src/baekjoon/15649)        | 2630  |   [색종이 만들기](src/baekjoon/2630)    |
+| 2164  |            [카드2](src/baekjoon/2164)            | 1003  |      [피보나치 함수](src/baekjoon/1003)      | 1012  |    [유기농 배추](src/baekjoon/1012)     |
+| 1074  |              [Z](src/baekjoon/1074)              | 1107  |        [리모컨](src/baekjoon/1107.py)        | 1260  |     [DFS와 BFS](src/baekjoon/1260)      |
+| 1389  |  [케빈 베이컨의 6단계 법칙](src/baekjoon/1389)   | 1463  |       [1로 만들기](src/baekjoon/1463)        | 1541  |   [잃어버린 괄호](src/baekjoon/1541)    |
+| 1620  | [나는야 포켓몬 마스터 이다솜](src/baekjoon/1620) | 1676  |    [팩토리얼 0의 개수](src/baekjoon/1676)    | 1697  |      [숨바꼭질](src/baekjoon/1697)      |
+| 1764  |           [듣보잡](src/baekjoon/1764)            | 2178  |        [미로 탐색](src/baekjoon/2178)        | 1780  |    [종이의 개수](src/baekjoon/1780)     |
+| 1931  |         [회의실 배정](src/baekjoon/1931)         | 5430  |           [AC](src/baekjoon/5430)            | 14889 | [스타트와 링크](src/baekjoon/14889.py)  |
+| 7576  |          [토마토](src/baekjoon/7576.py)          | 10026 |      [적록색약](src/baekjoon/10026.py)       | 1927  |     [최소 힙](src/baekjoon/1927.py)     |
+| 11279 |         [최대 힙](src/baekjoon/11279.py)         | 14502 |       [연구소](src/baekjoon/14502.py)        |  ATM  |      [ATM](src/baekjoon/11399.py)       |
+| 1699  |       [제곱수의 합](src/baekjoon/1699.py)        | 2579  |      [계단오르기](src/baekjoon/2579.py)      | 1992  |    [쿼드트리](src/baekjoon/1992.py)     |
+| 2003  |        [수들의 합2](src/baekjoon/2003.py)        | 20057 | [마법사 상어와 토네이도](src/baekjoon/20057) |       |                                         |
 
 <br><br>
 
