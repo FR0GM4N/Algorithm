@@ -33,7 +33,8 @@ src 폴더에 문제 사이트별로 코드를 정리했습니다.
 | 7576  |          [토마토](src/baekjoon/7576.py)          | 10026 |      [적록색약](src/baekjoon/10026.py)       | 1927  |     [최소 힙](src/baekjoon/1927.py)     |
 | 11279 |         [최대 힙](src/baekjoon/11279.py)         | 14502 |       [연구소](src/baekjoon/14502.py)        |  ATM  |      [ATM](src/baekjoon/11399.py)       |
 | 1699  |       [제곱수의 합](src/baekjoon/1699.py)        | 2579  |      [계단오르기](src/baekjoon/2579.py)      | 1992  |    [쿼드트리](src/baekjoon/1992.py)     |
-| 2003  |        [수들의 합2](src/baekjoon/2003.py)        | 20057 | [마법사 상어와 토네이도](src/baekjoon/20057) |       |                                         |
+| 2003  |        [수들의 합2](src/baekjoon/2003.py)        | 20057 | [마법사 상어와 토네이도](src/baekjoon/20057) | 21609 |   [상어중학교](src/baekjoon/21609.py)   |
+| 17406 |      [배열 돌리기 4](src/baekjoon/17406.py)      |       |                                              |       |                                         |
 
 <br><br>
 
